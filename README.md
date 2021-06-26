@@ -33,7 +33,7 @@
   <ul>
     <li>Vanilla JS</li>
     <li>JQuery and AJAX</li>
-    <li>Bit of React⚛️</li>
+    <li>A bit of React⚛️</li>
   </ul>
   </li>
   <li>⚡<b>GoLang</b>

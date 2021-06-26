@@ -26,9 +26,9 @@
     <li>SQLalchemy ORM</li>
     <li>Pygame for games</li>
     <li>PyQt5 for desktop apps</li>
-    <li>NumPy, Pandas, MatPlotLib for data vizualization<li>
+    <li>NumPy, Pandas, MatPlotLib for data vizualization</li>
   </ul>
-  <li>
+  </li>
   <li>☕<b>JavaScript</b>
   <ul>
     <li>Vanilla JS</li>
@@ -46,7 +46,7 @@
   <ul>
     <li>PyTest</li>
   </ul>
-  <li>
+  </li>
 </ul>  
 ***
 

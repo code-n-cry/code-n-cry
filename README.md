@@ -1,19 +1,6 @@
 ### Hi there 👋 I'm Egor, Russian junior web developer.
 
-<!--
-**code-n-cry/code-n-cry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ***
 
 🌱 I’m currently learning <a href="https://golang.org/">GoLang</a> and <a href="https://ru.reactjs.org/">React Js</a>
@@ -30,9 +17,10 @@ Here are some ideas to get you started:
 
   
 ***
+
 🐱‍💻My hard-skills:
 <ul>
-  <li>🐍<b>Python</b><li>
+  <li>🐍<b>Python</b>
   <ul>
     <li>FastAPI and Flask web frameworks</li>
     <li>SQLalchemy ORM</li>
@@ -40,23 +28,28 @@ Here are some ideas to get you started:
     <li>PyQt5 for desktop apps</li>
     <li>NumPy, Pandas, MatPlotLib for data vizualization<li>
   </ul>
-  <li>☕<b>JavaScript</b></li>
+  <li>
+  <li>☕<b>JavaScript</b>
   <ul>
     <li>Vanilla JS</li>
     <li>JQuery and AJAX</li>
     <li>Bit of React⚛️</li>
   </ul>
-  <li>⚡<b>GoLang</b></li>
+  </li>
+  <li>⚡<b>GoLang</b>
   <ul>
     <li>coming soon...</li>
   </ul>
+  </li>
   <li>📝HTML & CSS</li>
-  <li>Testing<li>
+  <li>Testing
   <ul>
     <li>PyTest</li>
   </ul>
+  <li>
 </ul>  
 ***
+
 How you can contact with me:<br>
 <a href="https://vk.com/response404_not_found">VKontakte</a><br>
 <a href="https://t.me/excel_dev">Telegram</a><br>

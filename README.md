@@ -57,7 +57,7 @@ How you can contact with me:<br>
 <a href="https://discord.com/users/511549372627157002/">Discord</a>
 
 ***
-
+<a href="https://www.codewars.com/users/code-n-cry/">My CodeWars:</a><br>
 <img src="https://www.codewars.com/users/code-n-cry/badges/large">
-
+<br>
 <b>Have a good day! :smile:</b>

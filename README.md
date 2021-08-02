@@ -58,6 +58,6 @@ How you can contact with me:<br>
 
 ***
 
-<a href="https://www.codewars.com/users/code-n-cry">And my CodeWars profile</a>
+<img src="https://www.codewars.com/users/code-n-cry/badges/large">
 
 <b>Have a good day! :smile:</b>

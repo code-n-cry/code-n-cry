@@ -12,7 +12,6 @@
   <li>🚀<a href="https://github.com/code-n-cry/CBbot" target="_blank">CBbot</a> - Telegram bot that helps people with cryptocurrencies</li>
   <li>🏎️<a href="https://github.com/code-n-cry/pyrace" target="_blank">PyRace</a> - Python traffic racing game with some features</li>
   <li>🎶<a href="https://github.com/code-n-cry/M_and_S" target="_blank">M&S(Music and Sound)</a> - Desktop Player app developed with PyQt5</li>
-  <li>💻<a href="https://github.com/Seregax/USSGeyParty" target="_blank">ZST</a> - My team website(very bad design)</li>
 </ul>
 
   

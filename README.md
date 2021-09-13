@@ -12,6 +12,7 @@
   <li>🚀<a href="https://github.com/code-n-cry/CBbot" target="_blank">CBbot</a> - Telegram bot that helps people with cryptocurrencies</li>
   <li>🏎️<a href="https://github.com/code-n-cry/pyrace" target="_blank">PyRace</a> - Python traffic racing game with some features</li>
   <li>🎶<a href="https://github.com/code-n-cry/M_and_S" target="_blank">M&S(Music and Sound)</a> - Desktop Player app developed with PyQt5</li>
+  <li><a href="https://github.com/code-n-cry/NewsBlogFastApi" target="_blank">Microblogs developed with FastAPI</a></li>
 </ul>
 
   
@@ -26,6 +27,7 @@
     <li>Pygame for games</li>
     <li>PyQt5 for desktop apps</li>
     <li>NumPy, Pandas, MatPlotLib for data vizualization</li>
+    
   </ul>
   </li>
   <li>☕<b>JavaScript</b>

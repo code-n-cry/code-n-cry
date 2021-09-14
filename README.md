@@ -3,7 +3,7 @@
 
 ***
 
-🌱 I’m currently learning <a href="https://golang.org/">GoLang</a> and <a href="https://ru.reactjs.org/">React.js</a>
+🌱 I’m currently learning <a href="https://fastapi.tiangolo.com/">FastAPI</a> and <a href="https://ru.reactjs.org/">Vanilla JS</a>
 
 ***
 

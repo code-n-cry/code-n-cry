@@ -3,7 +3,7 @@
 
 ***
 
-🌱 I’m currently learning some <a href="https://www.tensorflow.org/?hl=en" target="_blank">neural</a> stuff
+🌱 I’m currently learning <b><a href="https://www.djangoproject.com/" target="_blank">Django</a></b>
 
 ***
 
@@ -23,33 +23,27 @@
   <li>🐍<b>Python</b>
   <ul>
     <li>Async and parallel programming</li>
-    <li>FastAPI and Flask web frameworks</li>
-    <li>SQLalchemy ORM</li>
-    <li>Pygame for games</li>
-    <li>PyQt5 for desktop apps</li>
-    <li>NumPy, Pandas, MatPlotLib for data vizualization</li>
-    <li>Some
+    <li><a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI</a> and <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">Flask</a> web frameworks</li>
+    <li><a href="https://www.sqlalchemy.org/" target="_blank">SQLalchemy</a> ORM</li>
+    <li><a href="https://github.com/pygame/pygame" target="_blank">PyGame</a> for games</li>
+    <li><a href="https://pypi.org/project/PyQt5/" target="_blank">PyQt5</a> for desktop apps</li>
+    <li><a href="https://numpy.org/" target="blank">NumPy</a>, <a href="https://pandas.pydata.org/" target="_blank">Pandas</a>, <a href="https://matplotlib.org/" target="_blank">MatPlotLib</a> for data analysis and vizualization</li>
+    <li>A bit of <a href="https://www.tensorflow.org/?hl=ru" target="_blank">Tensorflow</a>
   </ul>
   </li>
   <li>☕<b>JavaScript</b>
   <ul>
-    <li>Vanilla JS</li>
-    <li>JQuery and AJAX</li>
-    <li>A bit of React⚛️</li>
+    <li><a href="https://jquery.com/" target="_blank">JQuery</a> and <a href="http://api.jquery.com/jquery.ajax/" target="_blank">AJAX</a></li>
+    <li>A bit of <a href="https://ru.reactjs.org/" target="_blank">React</a>⚛️</li>
   </ul>
   </li>
   <li>📝HTML & CSS</li>
-  <li>Testing
-  <ul>
-    <li>PyTest</li>
-  </ul>
-  </li>
 </ul>  
 
 ***
 
 How you can contact with me:<br>
-<a href="https://t.me/pizza_piece">Telegram</a><br>
+<a href="https://t.me/brown_eyed_minion">Telegram</a><br>
 <a href="https://discord.com/users/511549372627157002/">Discord</a>
 
 ***

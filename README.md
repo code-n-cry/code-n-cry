@@ -13,6 +13,7 @@
   <li>🏎️<a href="https://github.com/code-n-cry/DriveHack_MosTransProject" target="_blank">DriveHack</a> - Case from the DriveHack hackathon</li>
   <li>🎶<a href="https://github.com/code-n-cry/rainbowmusic" target="_blank">RM</a> - Telegram bot with neural recomentation system</li>
   <li><a href="https://github.com/code-n-cry/NewsBlogFastApi" target="_blank">Microblogs</a> developed with FastAPI and JS</li>
+  <li><a href="https://github.com/code-n-cry/django-school-project" target="_blank">Team tracker</a> developed with Django(team project, leaded by me)</li>
 </ul>
 
   
